@@ -1,0 +1,12 @@
+[Desktop Entry]
+Name=Timer
+Comment=
+GenericName=
+Keywords= timer;таймер;
+Exec=/usr/local/bin/timer_custom/main
+Terminal=false
+Type=Application
+Icon=/usr/local/bin/timer_custom/icon.png
+Path=
+Categories=
+NoDisplay=false
